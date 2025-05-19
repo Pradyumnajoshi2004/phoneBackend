@@ -1,4 +1,4 @@
-const { default: mongoose } = require("mongoose")
+const mongoose  = require("mongoose")
 const phone = require("./route/phoneRoutes")
 const express = require("express")
 const cors = require("cors")
